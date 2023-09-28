@@ -1,4 +1,5 @@
-![MERN stack web developer](https://i.ibb.co/VDb2hS9/Web-Developer-1.png)
+![MERN stack web developer](https://media.licdn.com/dms/image/D5616AQHVl6Moez2gLQ/profile-displaybackgroundimage-shrink_350_1400/0/1695919747402?e=1701302400&v=beta&t=Z3AJSJwRDjtdnm-wuammhoHWc3Ph73z6YSTi2wkzqVI)
+
 ## Hi there 👋, I am Turza
 ### MERN stack web developer
 
