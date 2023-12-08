@@ -12,6 +12,7 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 - 🤔 I’m looking for help with Developing  
 - 💬 Ask me about MERN stack developing 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=turzacse&theme=synthwave)](https://git.io/streak-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/turzacse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fahim-montasir-turza-919392235//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fahimmontasir.siam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fahimmontasirturza/)  
 
@@ -29,5 +30,5 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 
 ![GitHub metrics](https://metrics.lecoq.io/turzacse)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=turzacse)  
+
 
