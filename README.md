@@ -28,7 +28,6 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turzacse)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=turzacse&show_icons=true&count_private=true)  
 ![turzacse's Stats](https://github-readme-stats.vercel.app/api?username=turzacse&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/turzacse)  
