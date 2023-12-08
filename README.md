@@ -26,7 +26,6 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=turzacse)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turzacse)](https://github.com/anuraghazra/github-readme-stats)
 
 ![turzacse's Stats](https://github-readme-stats.vercel.app/api?username=turzacse&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
