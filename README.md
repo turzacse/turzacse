@@ -12,6 +12,8 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 - 🤔 I’m looking for help with Developing  
 - 💬 Ask me about MERN stack developing 
 
+<h3 align="left">Current Stack:</h3>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=turzacse&theme=synthwave)](https://git.io/streak-stats)
 
 ![turzacse's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turzacse&theme=monokai&show_icons=true&hide_border=true&layout=compact)
