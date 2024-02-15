@@ -35,3 +35,20 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 ![turzacse's Stats](https://github-readme-stats.vercel.app/api?username=turzacse&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/turzacse)  
+
+<!--
+//# 📊 GitHub Stats:
+//![](https://github-readme-stats.vercel.app/api?username=turzacse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+//![](https://github-readme-streak-stats.herokuapp.com/?user=turzacse&theme=dark&hide_border=false)<br/>
+//![](https://github-readme-stats.vercel.app/api/top-langs/?username=turzacse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=turzacse&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=turzacse&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
