@@ -12,11 +12,10 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 - 🤔 I’m looking for help with Developing  
 - 💬 Ask me about MERN stack developing 
 
-<h3 align="left">Current Stack:</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=turzacse&theme=synthwave)](https://git.io/streak-stats)
-
-![turzacse's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turzacse&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=turzacse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=turzacse&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=turzacse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,15 +31,12 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 [![trophy](https://github-profile-trophy.vercel.app/?username=turzacse)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![turzacse's Stats](https://github-readme-stats.vercel.app/api?username=turzacse&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+//![turzacse's Stats](https://github-readme-stats.vercel.app/api?username=turzacse&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/turzacse)  
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=turzacse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=turzacse&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=turzacse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=turzacse&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
