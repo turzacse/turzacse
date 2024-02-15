@@ -45,6 +45,6 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=turzacse&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=turzacse&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
