@@ -1,11 +1,11 @@
 
 ![MERN stack web developer]()
 
-
 ## Hi there 👋, I am Turza
 ### MERN stack web developer
 
 <h3 align="center">As a driven Computer Science undergraduate student and aspiring MERN stack developer, I am on a mission to leverage technology to create real-world solutions. My journey has taken me from the classroom to the world of web development, where I've been building and learning every day.</h3>
+
 
 Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / Bootstrap
 
