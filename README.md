@@ -1,5 +1,5 @@
-# Turza
-![MERN stack web developer]()
+
+![MERN stack web developer]("https://i.ibb.co/7VjFwgn/Sunday-2-May-2024.png")
 
 ## Hi there 👋, I am Turza
 ### MERN stack web developer
