@@ -1,4 +1,3 @@
-![MERN stack web developer](https://i.ibb.co/DRvQxnT/Sunday-2-May-2024-1.png)
 
 ## Hi there 👋, I am Turza
 ### MERN stack web developer
