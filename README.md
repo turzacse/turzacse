@@ -10,7 +10,7 @@ Skills: REACT / JS / NodeJS / Express JS / MongoDB/ HTML / CSS / TailwindCSS / B
 - 🌱 I’m currently learning Backend Developing 
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with Developing  
-- 💬 Ask me about MERN stack developing 
+- 💬 Ask me about MERN stack | Web Development developing 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=turzacse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
