@@ -32,7 +32,7 @@ Constantly learning, building, and exploring the world of <b>Web Development</b>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=turzacse&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-![Fahim's GitHub Metrics](https://github-readme-stats.vercel.app/api?username=turzacse&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Fahim's GitHub Metrics](https://github-readme-stats.vercel.app/api?username=turzacse&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 <p align="center">
